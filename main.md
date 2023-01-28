@@ -17,12 +17,12 @@ P.S. Because the manager asked me about this article, I didn't write you about m
 # If you want only one simple source for software engineering… {#if-you-want-only-one-simple-source-for-software-engineering…}
 Ok, If you want only one simples source, so…:
 1. Only one simple best practice for programmers - [link](#common-coding-conventions)
-2. Only one simple overview of Software Design - [link](#bookmark=id.xfn5vqxlps0w)
-3. Only one overview of Software architecture - [link](#bookmark=id.tlnba9d4e289) (sorry, only in Russian yet)
-4. Only one book to be a good Software Engineer - [link](#bookmark=id.dult75so4m46)
-5. Only programming principles - [link](#bookmark=id.u6y1629y0usg)
+2. Only one simple overview of Software Design - [link](#basics-of-sw-design-and-arch)
+3. Only one overview of Software architecture - [link](#my-modern-sw-arch) (sorry, only in Russian yet)
+4. Only one book to be a good Software Engineer - [link](#code-completed)
+5. Only programming principles - [link](#principles)
 6. Only one good employee - [link](https://www.linkedin.com/in/yurigeronimus/)
-7. Only one step-by-step reading list for the transition to a software engineer - [this doc](https://docs.google.com/document/d/1RqCgQzAwIo9sI2jg1KQxJyvBfe7c-TEod1p73h7UzhY/edit?usp=sharing)
+7. Only one step-by-step reading list for the transition to a software engineer - this doc
 
 # Manual - steps to be a software engineer {#manual-steps-to-be-a-software-engineer}
 Let’s understand that all about software creation is named Software Engineering.
@@ -65,8 +65,8 @@ Let's understand your future - what should you learn really. Roadmaps:
 
 ## Step 1 - Overview of Software Design and Architecture {#step-1-overview-of-software-design-and-architecture}
 1. Firstly let’s understand the [difference between Software Design and Architecture](https://medium.com/clean-architecture/difference-between-software-architecture-design-ad09b5ff0a68), just for right mind set when you read these words  
-2. Secondly, let’s learn the [basics of Software Design and Architecture](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/) (20-30 mins)
-3. Excellent deep overview of software design and construction - [Code Complete: A Practical Handbook of Software Construction](https://www.oreilly.com/library/view/code-complete-2nd/0735619670/) 2nd Edition by Steve McConnell (in [rus](https://www.labirint.ru/books/272529/))
+2. Secondly, let’s learn the <a name="basics-of-sw-design-and-arch">[basics of Software Design and Architecture](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)</a> (20-30 mins)
+3. Excellent deep overview of software design and construction - <a name="code-completed">[Code Complete: A Practical Handbook of Software Construction](https://www.oreilly.com/library/view/code-complete-2nd/0735619670/) 2nd Edition</a> by Steve McConnell (in [rus](https://www.labirint.ru/books/272529/))
     1. Fast track of this book - only Chapter 35 “Themes in Software Craftsmanship”. Note: it is not a full abstract of this book.
 
 ## Step 2 - Coding {#step-2-coding}
@@ -103,7 +103,7 @@ The source code is the only description of your software! It is true! Software i
 P.S. As I have said Engineering is about the whole lifecycle from ideation to destruction so let's read about DevOps [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) ([in rus](https://www.litres.ru/dzhin-kim/proekt-feniks-roman-o-tom-kak-devops-menyaet-biznes-k-luchshemu/))
 
 ## Step 3 - Software design and architecture {#step-3-software-design-and-architecture}
-1. [My outlook on modern software structure and architecture styles](https://t.me/it_ace/124) (only in Russian) - different styles of modern architectures, storage and messaging technologies, Service Mesh; microservice application design, domain-driven development; cloud-native, reactive, service mesh; deployment technologies - Kubernetes, Helm; data mesh; hundreds of different architectures of modern applications (for different purposes); CI / CD, DevOps, and SRE
+1. <a name="my-modern-sw-arch">[My outlook on modern software structure and architecture styles](https://t.me/it_ace/124)</a> (only in Russian) - different styles of modern architectures, storage and messaging technologies, Service Mesh; microservice application design, domain-driven development; cloud-native, reactive, service mesh; deployment technologies - Kubernetes, Helm; data mesh; hundreds of different architectures of modern applications (for different purposes); CI / CD, DevOps, and SRE
 2. Software design patterns and principles - area “Patterns and design principles” in [this link](https://roadmap.sh/software-architect) 
 3. The modern approach to Software Architecture - [Fundamentals of Software Architecture](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/) by Mark Richards, Neal Ford ([Russian language conspectus](https://apolomodov.medium.com/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-fundamentals-of-software-architecture-1754c0e78d48))
 4. Difficult aspects of Software Architecture - [Software Architecture: The Hard Parts](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/) by Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani ([Russian language conspectus](https://apolomodov.medium.com/review-software-architecture-the-hard-parts-part1-f0cc26ca6c16))
@@ -116,7 +116,7 @@ P.S. As I have said Engineering is about the whole lifecycle from ideation to de
 1. More about best practices
    1. [Common Coding Conventions](https://github.com/tum-esi/common-coding-conventions) by Associate Professorship of Embedded Systems and Internet of Things at TU Munich
    2. [This link](#bookmark=id.cumuiz19olch) for short best practices description from the “Code completed” book
-   3. [Programming principles](http://principles-wiki.net/about:start) (and an additional [good link](https://github.com/webpro/programming-principles))
+   3. [Programming principles]<a name="principles">(http://principles-wiki.net/about:start)</a> (and an additional [good link](https://github.com/webpro/programming-principles))
    4. Real software engineering - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) by Titus Winters, Tom Manshreck, Hyrum Wright
 2. More about object-oriented design:
    1. [Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445) by Robert Martin
