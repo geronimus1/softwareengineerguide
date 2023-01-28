@@ -16,7 +16,7 @@ P.S. Because the manager asked me about this article, I didn't write you about m
 
 # If you want only one simple source for software engineering… {#if-you-want-only-one-simple-source-for-software-engineering…}
 Ok, If you want only one simples source, so…:
-1. Only one simple best practice for programmers - [link](#bookmark=id.fcka2jdht9zf)
+1. Only one simple best practice for programmers - [link](#common-coding-conventions)
 2. Only one simple overview of Software Design - [link](#bookmark=id.xfn5vqxlps0w)
 3. Only one overview of Software architecture - [link](#bookmark=id.tlnba9d4e289) (sorry, only in Russian yet)
 4. Only one book to be a good Software Engineer - [link](#bookmark=id.dult75so4m46)
@@ -32,7 +32,7 @@ Software engineering contains all lifecycle of software - from idea to …, arch
 P.S. Be careful, all these steps are in parallel in our modern world.
 
 ## Step 00 - Map of your professional journey {#step-00-map-of-your-professional-journey}
-Let understand your future - what should you learn really. Roadmaps:
+Let's understand your future - what should you learn really. Roadmaps:
  1. [Roadmaps for different roles and programming languages](https://roadmap.sh/) (except C++ developer)
  2. Roadmaps for C++ developers:
      * A good[ roadmap](https://github.com/salmer/CppDeveloperRoadmap) ([in rus](https://github.com/salmer/CppDeveloperRoadmap/blob/main/Russian/README.md))
@@ -76,7 +76,7 @@ Do understand that software engineering is more about people and organization co
 The source code is the only description of your software! It is true! Software is electrical impulses on CPUs in server/client, not “text code” on your computer. So you need to have got common knowledge about how to write this description looks like a writing book)
 1. How to write “words” and “sentences” 
     1. [Clean Code](https://amzn.to/3e2Am9t) by “Uncle” Bob Martin ([in rus](https://www.labirint.ru/books/642466/))
-        * More simple with great examples and other information - [Common Coding Conventions](https://github.com/tum-esi/common-coding-conventions) by Associate Professorship of Embedded Systems and Internet of Things at TU Munich 
+        * More simple with great examples and other information - <a name="common-coding-conventions">[Common Coding Conventions](https://github.com/tum-esi/common-coding-conventions)</a> by Associate Professorship of Embedded Systems and Internet of Things at TU Munich 
     2. Rewriting (Refactoring) is very important
         1. [Refactoring](https://amzn.to/2G1LIOy) by Martin Fowler ([in rus](https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=%D0%A0%D0%B5%D1%84%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3.+%D0%A3%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D0%B5+%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%89%D0%B5%D0%B3%D0%BE+%D0%BA%D0%BE%D0%B4%D0%B0&product_id=1308678))
             * [More simply with cool pictures](https://refactoring.guru/refactoring) ([in rus](https://refactoring.guru/ru/refactoring))
