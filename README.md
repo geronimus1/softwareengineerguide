@@ -85,13 +85,12 @@ The source code is the only description of your software! It is true! Software i
 3. Do know that [your code can sign contracts](https://en.wikipedia.org/wiki/Design_by_contract) in modern coding like you and it is good
 
 #### Step 2.2 Coding starts with coding tests and testing
-1. Coding starts from coding tests and testing in modern software engineering, so let’s read about Test-Driven Development (TDD):
-    1. [TDD getting started](https://tddmanifesto.com/getting-started/)
-    2. Also [this](https://khalilstemmler.com/articles/test-driven-development/introduction-to-tdd/), and [this](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) ([in rus](https://habr.com/ru/company/ruvds/blog/450316/))
+Coding starts from coding tests and testing in modern software engineering, so let’s read about Test-Driven Development (TDD):
+1. [TDD getting started](https://tddmanifesto.com/getting-started/)
+2. Also [this](https://khalilstemmler.com/articles/test-driven-development/introduction-to-tdd/), and [this](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) ([in rus](https://habr.com/ru/company/ruvds/blog/450316/))
 
 #### Step 2.3 Something from engineering…
 "Buying" ready modules are cheaper than doing them yourself in most cases in modern engineering, so:
-
 1. Modules - just understand that there are many frameworks, libraries, and software that you should use and know
     1. There are [build automation tools](https://en.wikipedia.org/wiki/Build_automation) and [package managers](https://en.wikipedia.org/wiki/Package_manager) for the correct use of modules
     2. Understand that there are [different licenses](https://en.wikipedia.org/wiki/Software_license) that restrict you from using external modules
