@@ -67,7 +67,7 @@ Let's understand your future - what should you learn really. Roadmaps:
 1. Firstly let’s understand the [difference between Software Design and Architecture](https://medium.com/clean-architecture/difference-between-software-architecture-design-ad09b5ff0a68), just for right mind set when you read these words  
 2. Secondly, let’s learn the <a name="basics-of-sw-design-and-arch">[basics of Software Design and Architecture](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)</a> (20-30 mins)
 3. Excellent deep overview of software design and construction - <a name="code-completed">[Code Complete: A Practical Handbook of Software Construction](https://www.oreilly.com/library/view/code-complete-2nd/0735619670/) 2nd Edition</a> by Steve McConnell (in [rus](https://www.labirint.ru/books/272529/))
-    1. Fast track of this book - only Chapter 35 “Themes in Software Craftsmanship”. Note: it is not a full abstract of this book.
+    1. <a name="code-completed-short">Fast track of this book - only Chapter 35 “Themes in Software Craftsmanship”</a>. Note: it is not a full abstract of this book.
 
 ## Step 2 - Coding
 ### Step 2.1 People and organization communication
@@ -115,7 +115,7 @@ P.S. As I have said Engineering is about the whole lifecycle from ideation to de
 ## Step 5 - Additional - let's read when you will start work
 1. More about best practices
    1. [Common Coding Conventions](https://github.com/tum-esi/common-coding-conventions) by Associate Professorship of Embedded Systems and Internet of Things at TU Munich
-   2. [This link](#bookmark=id.cumuiz19olch) for short best practices description from the “Code completed” book
+   2. [This link](#code-completed-short) for short best practices description from the “Code completed” book
    3. [Programming principles]<a name="principles">(http://principles-wiki.net/about:start)</a> (and an additional [good link](https://github.com/webpro/programming-principles))
    4. Real software engineering - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) by Titus Winters, Tom Manshreck, Hyrum Wright
 2. More about object-oriented design:
