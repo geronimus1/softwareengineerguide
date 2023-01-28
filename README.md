@@ -12,10 +12,8 @@ I prepared this "manual" with a list of what to read if you are going to become 
 You should read links/books step-by-step from 1 to the next point... **You can stop at any moment.** The "manual" is written in such a way that it from important to more detailed.
 
 P.S. Because the manager asked me about this article, I didn't write you about management practices. But you can add them if you want.
-# Table of contents
-[TOC]
 
-# If you want only one simple source for software engineering… {#if-you-want-only-one-simple-source-for-software-engineering…}
+# If you want only one simple source for software engineering…
 Ok, If you want only one simples source, so…:
 1. Only one simple best practice for programmers - [link](#common-coding-conventions)
 2. Only one simple overview of Software Design - [link](#basics-of-sw-design-and-arch)
