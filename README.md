@@ -116,7 +116,7 @@ P.S. As I have said Engineering is about the whole lifecycle from ideation to de
 1. More about best practices
    1. [Common Coding Conventions](https://github.com/tum-esi/common-coding-conventions) by Associate Professorship of Embedded Systems and Internet of Things at TU Munich
    2. [This link](#code-completed-short) for short best practices description from the “Code completed” book
-   3. [Programming principles]<a name="principles">(http://principles-wiki.net/about:start)</a> (and an additional [good link](https://github.com/webpro/programming-principles))
+   3. <a name="principles">[Programming principles](http://principles-wiki.net/about:start)</a> (and an additional [good link](https://github.com/webpro/programming-principles))
    4. Real software engineering - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) by Titus Winters, Tom Manshreck, Hyrum Wright
 2. More about object-oriented design:
    1. [Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445) by Robert Martin
