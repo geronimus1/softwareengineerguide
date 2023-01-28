@@ -2,6 +2,7 @@
 This manual is made for you to change. Please edit, add and comment on this document!
 If you have problems with editing just [write me on Linkedin](https://www.linkedin.com/in/yurigeronimus/)
 
+![We are all Supermans](/images/superman.png)
 # Introduction
 My friend in the manager role wants to become a programmer. He asked me to recommend what he can read now before he knows what he will do, even in what language he should develop.
 
@@ -131,7 +132,7 @@ P.S. As I have said Engineering is about the whole lifecycle from ideation to de
       4. A good[ style guide from Google](https://google.github.io/styleguide/cppguide.html)
 4.  More about patterns:
     1. [Design Patterns](https://amzn.to/35Mu7mH) by Gamma, Helm, Johnson, Vlissides
-        1. [Simply with the story and beautiful pictures](https://refactoring.guru/ru/design-patterns) ([in rus](https://refactoring.guru/ru/refactoring))
+        * [Simply with the story and beautiful pictures](https://refactoring.guru/ru/design-patterns) ([in rus](https://refactoring.guru/ru/refactoring))
     2. [Pattern-oriented Software Architecture](https://amzn.to/3monFIS) by Buschmann et al
 5.  In addition to all the previous - how you should work for success as a programmer - [The Pragmatic Programmer: your journey to mastery](https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/) by David Thomas, Andrew Hunt ([in rus](https://www.labirint.ru/books/749461/))
 6.  [Another good list of software design and architecture books](https://apolomodov.medium.com/software-design-books-743be52e4c71) (only in Russian)
@@ -139,7 +140,7 @@ P.S. As I have said Engineering is about the whole lifecycle from ideation to de
 ## Step 6 - About the big picture - let's read at night when you have finished work  :-)
 1. Big pictures
    1. “Horizontal” big picture - about the whole software lifecycle:
-       1. Modern software lifecycle
+       1. Modern software lifecycle ![Modern software lifecycle](/images/archmap.png)
        2. Standard[ SWEBOK](https://www.computer.org/education/bodies-of-knowledge/software-engineering) ([in rus](https://github.com/ligurio/swebok-2004-in-russian))
    2. “Vertical” big picture
        1. [The Architect’s Path](https://architectelevator.com/architecture/architect-bookshelf/)
