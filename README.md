@@ -95,7 +95,7 @@ P.S. Do remember
 the behavior of our code quickly and verifiably. Without them, we really don’t know
 if our code is getting better or worse.
 >
-> -- <cite>Michael C. Feathers, Working Effectively with Legacy Code</cite>
+> -- *Michael C. Feathers, Working Effectively with Legacy Code*
 
 #### Step 2.3 Something from engineering…
 "Buying" ready modules are cheaper than doing them yourself in most cases in modern engineering, so:
