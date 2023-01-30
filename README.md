@@ -89,6 +89,14 @@ Coding starts from coding tests and testing in modern software engineering, so l
 1. [TDD getting started](https://tddmanifesto.com/getting-started/)
 2. Also [this](https://khalilstemmler.com/articles/test-driven-development/introduction-to-tdd/), and [this](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) ([in rus](https://habr.com/ru/company/ruvds/blog/450316/))
 
+P.S. Do remember
+> Legacy code is simply code without tests. 
+> Code without tests is bad code. It doesn’t matter how well written it is; it doesn’t matter how pretty or object-oriented or well-encapsulated it is. With tests, we can change
+the behavior of our code quickly and verifiably. Without them, we really don’t know
+if our code is getting better or worse.
+>
+> -- <cite>Michael C. Feathers, Working Effectively with Legacy Code</cite>
+
 #### Step 2.3 Something from engineering…
 "Buying" ready modules are cheaper than doing them yourself in most cases in modern engineering, so:
 1. Modules - just understand that there are many frameworks, libraries, and software that you should use and know
