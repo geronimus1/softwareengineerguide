@@ -31,7 +31,7 @@ Ok, If you want only one simples source, so…:
 6. Only one good employee - [link](https://www.linkedin.com/in/yurigeronimus/)
 7. Only one step-by-step reading list for the transition to a software engineer - this doc
 
-## "Educational pathway": Manual - steps to be a software engineer
+## "Educational pathway": Steps to be a software engineer
 > Once upon a time, in a small town called Smallville, Superman was just a regular kid going to school. Well, maybe not so regular with his X-ray vision and super strength coming in handy during science class. After graduating high school, he didn't just fly away to save the world. Instead, he got his Bachelor's and Master's degrees because even a superhero knows the value of education. But let's be honest, those superpowers are what really make him a hero in the job market.
 
 Let’s understand that all about software creation is named Software Engineering.
