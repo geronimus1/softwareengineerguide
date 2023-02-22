@@ -21,6 +21,7 @@ P.S. Because the manager asked me about this article, I didn't write you about m
 
 ## If you want only one simple source for software engineering…
 > If you want only one simple source for Superman...  You could always try calling the Daily Planet and asking for Clark Kent. Just make sure you don't mention anything about Superman, or you might blow his cover!
+
 Ok, If you want only one simples source, so…:
 1. Only one simple best practice for programmers - [link](#common-coding-conventions)
 2. Only one simple overview of Software Design - [link](#basics-of-sw-design-and-arch)
