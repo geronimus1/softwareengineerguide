@@ -146,7 +146,7 @@ P.S. As I have said Engineering is about the whole lifecycle from ideation to de
 1. Big pictures
    1. “Horizontal” big picture - about the whole software lifecycle:
        1. Modern software lifecycle ![Modern software lifecycle](/images/archmap.png)
-       2. Standard[ SWEBOK](https://www.computer.org/education/bodies-of-knowledge/software-engineering) ([in rus](https://github.com/ligurio/swebok-2004-in-russian))
+       2. Standard [SWEBOK](https://www.computer.org/education/bodies-of-knowledge/software-engineering) ([in rus](https://github.com/ligurio/swebok-2004-in-russian))
    2. “Vertical” big picture
        1. [The Architect’s Path](https://architectelevator.com/architecture/architect-bookshelf/)
 
