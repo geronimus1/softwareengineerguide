@@ -101,7 +101,7 @@ The source code is the only description of your software! It is true! Software i
     2. [The naming of your commits](https://dev.to/i5han3/git-commit-message-convention-that-you-can-follow-1709)
 3. Do know that [your code can sign contracts](https://en.wikipedia.org/wiki/Design_by_contract) in modern coding like you and it is good
 
-#### "Junior high school" Coding starts with coding tests and testing
+#### "Junior high school": Coding starts with coding tests and testing
 > Superman wasn't just a bookworm in junior high/middle school. He was always pushing his limits, whether it was testing out his superhuman strength or seeing how far he could go with his wild imagination. These early years taught him to never back down from a challenge and to always believe in himself, no matter how impossible the task may seem.
 
 Coding starts from coding tests and testing in modern software engineering, so let’s read about Test-Driven Development (TDD):
@@ -116,7 +116,7 @@ if our code is getting better or worse.
 >
 > -- *Michael C. Feathers, Working Effectively with Legacy Code*
 
-#### "High school" Something from engineering…
+#### "High school": Something from engineering…
 > During his high school years, Superman not only focused on academic subjects but also began to experience the realities of life beyond the classroom. Through extracurricular activities and volunteer work, he gained a sense of purpose and empathy for others, preparing him to use his powers for the greater good. This combination of academic and personal growth set the foundation for his future as a hero and helped him understand the challenges and struggles of real life.
 
 "Buying" ready modules are cheaper than doing them yourself in most cases in modern engineering, so:
