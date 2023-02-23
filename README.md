@@ -67,13 +67,16 @@ You should have a basic understanding of two major sections:
         3. Basic operating system knowledge
             1. [Process, thread](https://www.youtube.com/watch?v=4rLW7zg21gI)
         4. Basic network knowledge
-            1. OSI
+            1. [OSI](https://www.youtube.com/watch?v=0y6FtKsg6J4)
             2. TCP/IP (including IP, TCP, and UDP protocols), 
             3. Socket, HTTP
             4. [SSL, HTTPS](https://www.youtube.com/watch?v=j9QmMEWmcfo)
             5. DNS
             6. [How a browser works](https://www.youtube.com/watch?v=AlkDbnbv7dk)
-        5. Basic API knowledge
+        5. Basic application virtualization knowledge
+            1. [Application virtualization types](https://www.youtube.com/watch?v=Jz8Gs4UHTO8)
+            2. [Kubernetes](https://www.youtube.com/watch?v=TlHvYWVUZyc)
+        6. Basic API knowledge
             1.  API
             2.  SOAP, [REST](https://www.youtube.com/watch?v=-mN3VyJuCjM), [GraphQL](https://www.youtube.com/watch?v=yWzKJPw_VzM)
 2. Object-oriented programming basics - let's see on the internet what it is in common, and…
