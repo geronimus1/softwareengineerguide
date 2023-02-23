@@ -38,7 +38,7 @@ It's important to acknowledge that everything related to software development fa
 
 However, it's crucial to note that in today's modern world, these steps often occur concurrently rather than in a sequential order.
 
-## First conversation with a father: Your professional journey
+## Conversation with a father about career: Your professional journey
 > When Superman asked his father about his career, his father replied, "Son, you have to find your passion and fly with it!" Superman was confused, but his father continued, "No, literally, fly with it. That's how you became a superhero." And so, Superman explored various fields of interest, including saving the world, and never stopped learning how to become a better hero.
 
 To ensure that you're on the right path for your future, it's important to determine what skills you should learn. Here are some useful roadmaps to guide you:
@@ -75,7 +75,7 @@ To ensure that you're on the right path for your future, it's important to deter
     1. [4 Principles of Object-Oriented Programming](https://khalilstemmler.com/articles/object-oriented/programming/4-principles/)
     2. Best practices are below
 
-## Second conversation with a father about the world:  Overview of Software Design and Architecture
+## Conversation with a father about the universe:  Overview of Software Design and Architecture
 > When Superman asked his father about the universe, his mind was blown away like a bird in a tornado. His dad explained how the planets, stars, and galaxies were like pieces in a giant puzzle, and Superman's brain was like a sponge that absorbed all the knowledge like a thirsty plant on a rainy day. From that day forward, Superman's passion for space exploration was sky high!
 
 1. Firstly let’s understand the [difference between Software Design and Architecture](https://medium.com/clean-architecture/difference-between-software-architecture-design-ad09b5ff0a68), just for right mind set when you read these words  
