@@ -167,7 +167,7 @@ P.S. As I have said Engineering is about the whole lifecycle from ideation to de
 4.  More about patterns:
     1. [Design Patterns](https://amzn.to/35Mu7mH) by Gamma, Helm, Johnson, Vlissides
         * [Simply with the story and beautiful pictures](https://refactoring.guru/ru/design-patterns) ([in rus](https://refactoring.guru/ru/refactoring))
-            - [Simplest quick reference for basic design patterns](http://www.mcdonaldland.info/2007/11/28/40/)
+        * [Simplest quick reference for basic design patterns](http://www.mcdonaldland.info/2007/11/28/40/)
     2. [Pattern-oriented Software Architecture](https://amzn.to/3monFIS) by Buschmann et al
 5.  <a name="legacy-code">How to work with legacy code - [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) by Michael Feathers</a> ([in rus](https://www.labirint.ru/books/231685/))
 6.  In addition to all the previous - how you should work for success as a programmer - [The Pragmatic Programmer: your journey to mastery](https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/) by David Thomas, Andrew Hunt ([in rus](https://www.labirint.ru/books/749461/))
