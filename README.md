@@ -15,9 +15,9 @@ Furthermore, even if you are already a software engineer, you can still utilize 
 ## Instruction
 >Attention citizens of Metropolis! Just like how Superman goes step-by-step to save the day, you too can become a software engineer by following a step-by-step reading list. And the best part? You can stop at any moment, just like how Superman takes a break to eat a sandwich. 
 
-You should read links/books step-by-step from 1 to the next point... **You can stop at any moment.** The "manual" is written in such a way that it from important to more detailed.
+It is advisable to follow the sequence of links/books from point one to the next, but you have the freedom to stop at any point. The "manual" has been organized in a manner that progresses from crucial to more intricate concepts.
 
-P.S. Because the manager asked me about this article, I didn't write you about management practices. But you can add them if you want.
+Please note that I have excluded management practices from this article since my friend, who is a manager, specifically requested it. However, you are welcome to include them if you wish.
 
 ## If you want only one simple source for software engineering…
 > If you want only one simple source for Superman...  You could always try calling the Daily Planet and asking for Clark Kent. Just make sure you don't mention anything about Superman, or you might blow his cover!
