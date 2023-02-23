@@ -1,5 +1,5 @@
 # From Zero to Hero: A Step-by-Step reading list to transform into a Super Professional Software Engineer
-This manual is made for you to change. Please comment and edit this document!
+This guide is made for you to change. Please comment and edit this document!
 If you have problems with editing just [write me on Linkedin](https://www.linkedin.com/in/yurigeronimus/)
 
 ## Introduction
