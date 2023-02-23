@@ -3,8 +3,9 @@ This guide is made for you to change. Please comment and edit this document!
 If you have problems with editing just [write me on Linkedin](https://www.linkedin.com/in/yurigeronimus/)
 
 ## Introduction
-![We all are Supermans](/images/superman.png)
 > My fellow Supermen and Superwomen, I stand before you today to remind you that we are all capable of greatness. We may not have superhuman strength or the ability to fly, but we have something even better - the power of our minds and the strength of our wills. So let's put on our capes, channel our inner superheroes, and take on the world with all the courage and determination of the Man of Steel himself. Up, up, and away!
+
+![We all are Supermans](/images/superman.png)
 
 A friend of mine who currently holds a managerial position expressed interest in transitioning to a software engineer role. They approached me for recommendations on what to read and which language to start with, despite being uncertain about their future path.
 
