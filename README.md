@@ -6,11 +6,11 @@ If you have problems with editing just [write me on Linkedin](https://www.linked
 ![We all are Supermans](/images/superman.png)
 > My fellow Supermen and Superwomen, I stand before you today to remind you that we are all capable of greatness. We may not have superhuman strength or the ability to fly, but we have something even better - the power of our minds and the strength of our wills. So let's put on our capes, channel our inner superheroes, and take on the world with all the courage and determination of the Man of Steel himself. Up, up, and away!
 
-My friend in the manager role wants to become a programmer. He asked me to recommend what he can read now before he knows what he will do, even in what language he should develop.
+A friend of mine who currently holds a managerial position expressed interest in transitioning to a software engineer role. They approached me for recommendations on what to read and which language to start with, despite being uncertain about their future path.
 
-I prepared this "manual" with a list of what to read if you are going to become a software engineer from a non-engineer. 
+To assist them, I have compiled a comprehensive list of recommended reading materials for individuals transitioning from a non-engineering background to a career in software engineering.
 
-If you are already software engineer, you can use this manual for your grow to Super software engineer.
+Furthermore, even if you are already a software engineer, you can still utilize this manual to enhance your skills and progress towards becoming a super software engineer.
 
 ## Instruction
 >Attention citizens of Metropolis! Just like how Superman goes step-by-step to save the day, you too can become a software engineer by following a step-by-step reading list. And the best part? You can stop at any moment, just like how Superman takes a break to eat a sandwich. 
