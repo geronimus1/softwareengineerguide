@@ -134,11 +134,7 @@ In most cases in modern engineering, it's cheaper to purchase ready-made modules
 2. Just understand that there are many patterns of:
     1. Software design patterns - checkout [the simplest and most complete registry of software design patterns](https://en.wikipedia.org/wiki/Software_design_pattern#Classification_and_list)
         * For fans of patterns: [principles and principle language](#principles) and [pattern-oriented software architecture](https://en.wikipedia.org/wiki/Pattern-Oriented_Software_Architecture)
-    2. Software architecture styles - check out this [list of software architecture styles and patterns](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns)
-
-2. Just understand that are many patterns of 
-    1. software design patterns - [the simplest and most complete registry of software design patterns](https://en.wikipedia.org/wiki/Software_design_pattern#Classification_and_list) (for fans: [principles and principle language](#principles) and [pattern-oriented software architecture](https://en.wikipedia.org/wiki/Pattern-Oriented_Software_Architecture)), and…
-    2. software architecture styles - [list of software architecture styles and patterns](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) 
+    2. Software architecture styles - check out this [list of software architecture styles and patterns](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) 
 
 P.S. As I have said Engineering is about the whole lifecycle from ideation to destruction so let's read about DevOps [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) ([in rus](https://www.litres.ru/dzhin-kim/proekt-feniks-roman-o-tom-kak-devops-menyaet-biznes-k-luchshemu/))
 
