@@ -115,7 +115,7 @@ P.S. Do remember
 the behavior of our code quickly and verifiably. Without them, we really don’t know
 if our code is getting better or worse.
 >
-> -- *Michael C. Feathers, Working Effectively with Legacy Code*
+> -- *Michael C. Feathers, [Working Effectively with Legacy Code](#legacy-code)*
 
 ### High school: Something from engineering…
 > During his high school years, Superman not only focused on academic subjects but also began to experience the realities of life beyond the classroom. Through extracurricular activities and volunteer work, he gained a sense of purpose and empathy for others, preparing him to use his powers for the greater good. This combination of academic and personal growth set the foundation for his future as a hero and helped him understand the challenges and struggles of real life.
@@ -167,8 +167,9 @@ P.S. As I have said Engineering is about the whole lifecycle from ideation to de
     1. [Design Patterns](https://amzn.to/35Mu7mH) by Gamma, Helm, Johnson, Vlissides
         * [Simply with the story and beautiful pictures](https://refactoring.guru/ru/design-patterns) ([in rus](https://refactoring.guru/ru/refactoring))
     2. [Pattern-oriented Software Architecture](https://amzn.to/3monFIS) by Buschmann et al
-5.  In addition to all the previous - how you should work for success as a programmer - [The Pragmatic Programmer: your journey to mastery](https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/) by David Thomas, Andrew Hunt ([in rus](https://www.labirint.ru/books/749461/))
-6.  [Another good list of software design and architecture books](https://apolomodov.medium.com/software-design-books-743be52e4c71) (only in Russian)
+5.  <a name="legacy-code">How to work with legacy code - [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) by Michael Feathers</a> ([in rus](https://www.labirint.ru/books/231685/))
+6.  In addition to all the previous - how you should work for success as a programmer - [The Pragmatic Programmer: your journey to mastery](https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/) by David Thomas, Andrew Hunt ([in rus](https://www.labirint.ru/books/749461/))
+7.  [Another good list of software design and architecture books](https://apolomodov.medium.com/software-design-books-743be52e4c71) (only in Russian)
 
 ## Master of Science: About the big picture
 > Ah, the illustrious MSc degree, where Superman can further hone his skills and become a real expert in his chosen field. It's like a superhero upgrade - a cape for the brain, if you will! And who knows, with all that advanced knowledge and research abilities, maybe Superman can finally figure out why people insist on wearing their underwear on the outside.
