@@ -111,7 +111,7 @@ Therefore, it is important to have a good understanding of how to write a clear 
 ### Junior high school: Coding starts with coding tests and testing
 > Superman wasn't just a bookworm in junior high/middle school. He was always pushing his limits, whether it was testing out his superhuman strength or seeing how far he could go with his wild imagination. These early years taught him to never back down from a challenge and to always believe in himself, no matter how impossible the task may seem.
 
-Coding starts from coding tests and testing in modern software engineering, so let’s read about Test-Driven Development (TDD):
+In modern software engineering, coding begins with coding tests and testing. So, let's learn about Test-Driven Development (TDD).:
 1. [TDD getting started](https://tddmanifesto.com/getting-started/)
 2. Also [this](https://khalilstemmler.com/articles/test-driven-development/introduction-to-tdd/), and [this](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) ([in rus](https://habr.com/ru/company/ruvds/blog/450316/))
 
