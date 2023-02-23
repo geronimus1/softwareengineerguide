@@ -18,7 +18,7 @@ Furthermore, even if you are already a software engineer, you can still utilize 
 
 It is advisable to follow the sequence of links/books from point one to the next, but you have the freedom to stop at any point. The "manual" has been organized in a manner that progresses from crucial to more intricate concepts.
 
-Please note that I have excluded management practices from this article since my friend, who is a manager, specifically requested it. However, you are welcome to include them if you wish.
+Please note that I have excluded management practices from this article since my friend is a manager, and he didn't ask it. However, you are welcome to include them if you wish.
 
 ## If you want only one simple source for software engineering…
 > If you want only one simple source for Superman...  You could always try calling the Daily Planet and asking for Clark Kent. Just make sure you don't mention anything about Superman, or you might blow his cover!
