@@ -126,14 +126,13 @@ if our code is getting better or worse.
 > During his high school years, Superman not only focused on academic subjects but also began to experience the realities of life beyond the classroom. Through extracurricular activities and volunteer work, he gained a sense of purpose and empathy for others, preparing him to use his powers for the greater good. This combination of academic and personal growth set the foundation for his future as a hero and helped him understand the challenges and struggles of real life.
 
 In most cases in modern engineering, it's cheaper to purchase ready-made modules than to develop them yourself. Therefore:
-1. Modules -  it's important to understand that there are various frameworks, libraries, and software that you should be familiar with and use
-2. Additionally, you should be aware of:
+1. Modules - it's important to understand that there are various frameworks, libraries, and software that you should be familiar with and use. Additionally, you should be aware of:
     1. [Build automation tools](https://en.wikipedia.org/wiki/Build_automation) and [Package managers](https://en.wikipedia.org/wiki/Package_manager) for the correct use of modules
     2. [Different licenses](https://en.wikipedia.org/wiki/Software_license) that restrict you from using external modules
-2. Just understand that there are many patterns of:
-    1. Software design patterns - checkout [the simplest and most complete registry of software design patterns](https://en.wikipedia.org/wiki/Software_design_pattern#Classification_and_list)
-        * For fans of patterns: [principles and principle language](#principles) and [pattern-oriented software architecture](https://en.wikipedia.org/wiki/Pattern-Oriented_Software_Architecture)
-    2. Software architecture styles - check out this [list of software architecture styles and patterns](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) 
+2. Also you need understand that there are many patterns of Software principles, design and architecture:
+    1. Software design principles - checkout [principles and principle language](#principles)
+    2. Software design patterns - checkout [the simplest and most complete registry of software design patterns](https://en.wikipedia.org/wiki/Software_design_pattern#Classification_and_list)
+    3. Software architecture styles - check out this [list of software architecture styles and patterns](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) 
 
 P.S. As I have said Engineering is about the whole lifecycle from ideation to destruction so let's read about DevOps [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) ([in rus](https://www.litres.ru/dzhin-kim/proekt-feniks-roman-o-tom-kak-devops-menyaet-biznes-k-luchshemu/))
 
