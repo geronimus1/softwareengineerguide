@@ -214,7 +214,7 @@ This is a list of things that I believe are important, but they are not included
 6. BDD
 7. How to organize your working place:
     - hard: chairs, table, 3+ monitors, vertical mouse etc
-    - soft: to succees, you need to use the best software tools available in every area. It's like being a robot competing against humans!c
+    - soft: to succees, you need to use the best software tools available in every area. It's like being a robot competing against humans!
 
 ## Additional sources
 This section describes the sources of information from which this list was created. But which were not mentioned in it directly.
