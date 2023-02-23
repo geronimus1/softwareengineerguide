@@ -96,7 +96,7 @@ The source code is the only description of your software! It is true! Software i
     1. [Clean Code](https://amzn.to/3e2Am9t) by “Uncle” Bob Martin ([in rus](https://www.labirint.ru/books/642466/))
         * More simple with great examples and other information - <a name="common-coding-conventions">[Common Coding Conventions](https://github.com/tum-esi/common-coding-conventions)</a> by Associate Professorship of Embedded Systems and Internet of Things at TU Munich 
     2. Rewriting (Refactoring) is very important
-        1. [Refactoring](https://amzn.to/2G1LIOy) by Martin Fowler ([in rus](https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=%D0%A0%D0%B5%D1%84%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3.+%D0%A3%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D0%B5+%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%89%D0%B5%D0%B3%D0%BE+%D0%BA%D0%BE%D0%B4%D0%B0&product_id=1308678))
+        1. [Refactoring](https://amzn.to/2G1LIOy) by Martin Fowler ([in rus](https://www.labirint.ru/books/601754/))
             * [More simply with cool pictures](https://refactoring.guru/refactoring) ([in rus](https://refactoring.guru/ru/refactoring))
 2. The storytelling of your software through version control (I recommend git)
     1. [Write Better Commits, Build Better Projects](https://github.blog/2022-06-30-write-better-commits-build-better-projects/)
