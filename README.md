@@ -200,6 +200,8 @@ Once you achieve success in your work, you can expand your knowledge to understa
 
 ## Additional courses: additional topics for learn
 > Perhaps Superman even took a course on "How to Handle Kryptonite in the Workplace" or "Superhero Ethics 101." And let's not forget about "Superhero Fashion Design," because let's be honest, that cape doesn't just design itself!
+
+This is a list of things that I believe are important, but they are not included in the main text as I have not worked on them enough for this article
 1. Programming:
     1. Good logs
     2. Command line - bash, Powershell
@@ -210,6 +212,9 @@ Once you achieve success in your work, you can expand your knowledge to understa
 4. [https://www.shecancode.io/blog/my-software-engineer-roadmap-by-joana-carneiro](https://www.shecancode.io/blog/my-software-engineer-roadmap-by-joana-carneiro) 
 5. DDD - [link](https://khalilstemmler.com/articles/domain-driven-design-intro/)
 6. BDD
+7. How to organize your working place:
+    - hard: chairs, table, 3+ monitors, vertical mouse etc
+    - soft: to succees, you need to use the best software tools available in every area. It's like being a robot competing against humans!c
 
 ## Additional sources
 This section describes the sources of information from which this list was created. But which were not mentioned in it directly.
