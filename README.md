@@ -161,6 +161,7 @@ If you want a more in-depth overview of software design and architecture, you ma
 ## On-the-Job Learning: Let's read when you will start work
 > Well, after completing his formal education, Superman finally joined the workforce and boy was it a rollercoaster ride! From tackling office politics to dealing with cranky clients, Superman learned that the real-world had a lot more surprises in store for him than just fighting off Lex Luthor. But with his superpowers and quick wit, he was able to soar through any challenge that came his way!
 
+As you're now working, it's important to read the best sources to be successful in real life, not just to appear intelligent:
 1. More about best practices
    1. [Common Coding Conventions](https://github.com/tum-esi/common-coding-conventions) by Associate Professorship of Embedded Systems and Internet of Things at TU Munich
    2. [This link](#code-completed-short) for short best practices description from the “Code completed” book
@@ -169,16 +170,16 @@ If you want a more in-depth overview of software design and architecture, you ma
 2. More about object-oriented design:
    1. [Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445) by Robert Martin
    2. [Object Design: Roles, Responsibilities, and Collaborations](https://www.amazon.com/Object-Design-Roles-Responsibilities-Collaborations/dp/0201379430), Rebecca Wirfs-Brock et al., Addison-Wesley, 2002.
-3.  How to work with legacy code
+3. How to work with legacy code
     1. <a name="legacy-code">[Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) by Michael Feathers</a> ([in rus](https://www.labirint.ru/books/231685/))
 4. More about coding standards, best practices and tips
-   1. [Common Coding Conventions](#bookmark=id.fcka2jdht9zf) by Associate Professorship of Embedded Systems and Internet of Things at TU Munich
-   2. [Coding guides from Google](https://google.github.io/styleguide/)
-   3. For C++
-      1. [C++ core guidelines from C++ language author and other ](https://github.com/isocpp/CppCoreGuidelines)
-      2. [Tips from Google](https://abseil.io/tips/)
-      3. [Good rules for secure coding](https://wiki.sei.cmu.edu/confluence/pages/viewpage.action?pageId=88046682)
-      4. A good[ style guide from Google](https://google.github.io/styleguide/cppguide.html)
+    1. [Common Coding Conventions](#bookmark=id.fcka2jdht9zf) by Associate Professorship of Embedded Systems and Internet of Things at TU Munich
+    2. [Coding guides from Google](https://google.github.io/styleguide/)
+    3. For C++
+        1. [C++ core guidelines from C++ language author and other ](https://github.com/isocpp/CppCoreGuidelines)
+        2. [Tips from Google](https://abseil.io/tips/)
+        3. [Good rules for secure coding](https://wiki.sei.cmu.edu/confluence/pages/viewpage.action?pageId=88046682)
+4. A good[ style guide from Google](https://google.github.io/styleguide/cppguide.html)
 5.  More about patterns:
     1. [Design Patterns](https://amzn.to/35Mu7mH) by Gamma, Helm, Johnson, Vlissides
         * [Simply with the story and beautiful pictures](https://refactoring.guru/ru/design-patterns) ([in rus](https://refactoring.guru/ru/refactoring))
