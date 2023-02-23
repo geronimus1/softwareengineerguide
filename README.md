@@ -83,6 +83,8 @@ You should have a basic understanding of two major sections:
 ## Conversation with a father about the universe:  Overview of Software Design and Architecture
 > When Superman asked his father about the universe, his mind was blown away like a bird in a tornado. His dad explained how the planets, stars, and galaxies were like pieces in a giant puzzle, and Superman's brain was like a sponge that absorbed all the knowledge like a thirsty plant on a rainy day. From that day forward, Superman's passion for space exploration was sky high!
 
+
+Before we dive in, let's take a quick glance at Software Design and Architecture so that you have a general idea of what you'll be learning in the future. Who knows, maybe it'll be enough for you:smiley::
 1. Firstly let’s understand the [difference between Software Design and Architecture](https://medium.com/clean-architecture/difference-between-software-architecture-design-ad09b5ff0a68), just for right mind set when you read these words  
 2. Secondly, let’s learn the <a name="basics-of-sw-design-and-arch">[basics of Software Design and Architecture](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)</a> (20-30 mins)
 3. Excellent deep overview of software design and construction - <a name="code-completed">[Code Complete: A Practical Handbook of Software Construction](https://www.oreilly.com/library/view/code-complete-2nd/0735619670/) 2nd Edition</a> by Steve McConnell (in [rus](https://www.labirint.ru/books/272529/))
