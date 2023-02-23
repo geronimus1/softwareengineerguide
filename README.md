@@ -34,11 +34,9 @@ Ok, If you want only one simples source, so…:
 ## Educational pathway: Steps to be a software engineer
 > Once upon a time, in a small town called Smallville, Superman was just a regular kid going to school. Well, maybe not so regular with his X-ray vision and super strength coming in handy during science class. After graduating high school, he didn't just fly away to save the world. Instead, he got his Bachelor's and Master's degrees because even a superhero knows the value of education. But let's be honest, those superpowers are what really make him a hero in the job market.
 
-Let’s understand that all about software creation is named Software Engineering.
+It's important to acknowledge that everything related to software development falls under the umbrella of Software Engineering. This encompasses the entire life cycle of software creation, including ideation, architecture, design, construction, implementation, operation, and ultimately, decommissioning.
 
-Software engineering contains all lifecycle of software - from idea to …, architecture, design, …, construction, …, running, …,  and destruction in the end…
-
-P.S. Be careful, all these steps are in parallel in our modern world.
+However, it's crucial to note that in today's modern world, these steps often occur concurrently rather than in a sequential order.
 
 ## First conversation with a father: Your professional journey
 > When Superman asked his father about his career, his father replied, "Son, you have to find your passion and fly with it!" Superman was confused, but his father continued, "No, literally, fly with it. That's how you became a superhero." And so, Superman explored various fields of interest, including saving the world, and never stopped learning how to become a better hero.
