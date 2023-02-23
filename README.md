@@ -53,26 +53,29 @@ To ensure that you're on the right path for your future, it's important to deter
 ## Childhood: Computer science and Object-oriented programming basics
 > As a little tyke, even Superman had to learn the basics of walking, talking, and making friends, just like the rest of us mere mortals. But let's be real, his true superpower was his boundless curiosity, which led him to explore the world around him and uncover its hidden secrets (and maybe accidentally break a few things along the way).
 
-1. Computer science basics - I don't know modern books about computer science because I learned this area at university a long time ago). So let’s understand what is computer science through this [video](https://www.youtube.com/watch?v=SzJ46YA_RaA) and let's see on the internet: 
-    1. Basic algorithm knowledge
-        1. State machine
-        2. Data structs and related: tree, list, deck, stack, queue, hash function, and hash table. [Great algorithm work visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-        3. [Different sort algorithms](https://www.toptal.com/developers/sorting-algorithms)
-        4. Computational complexity ([good explanation for data structures and sort algorithms](https://www.bigocheatsheet.com/)) and memory consumption of algorithms
-    2. Basic database knowledge
-        1. RDBMS, NoSQL, SQL
-    3. Basic operating system knowledge
-        1. [Process, thread](https://www.youtube.com/watch?v=4rLW7zg21gI)
-    4. Basic network knowledge
-        1. OSI
-        2. TCP/IP (including IP, TCP, and UDP protocols), 
-        3. Socket, HTTP
-        4. [SSL, HTTPS](https://www.youtube.com/watch?v=j9QmMEWmcfo)
-        5. DNS
-        6. [How a browser works](https://www.youtube.com/watch?v=AlkDbnbv7dk)
-    5. Basic API knowledge
-        1.  API
-        2.  SOAP, [REST](https://www.youtube.com/watch?v=-mN3VyJuCjM), [GraphQL](https://www.youtube.com/watch?v=yWzKJPw_VzM)
+You should have a basic understanding of two major sections:
+1. Computer science basics - here are a few options to understand the first major section. Since I learned this area a long time ago in university, I'm not familiar with the latest books. So, let's start with this [video](https://www.youtube.com/watch?v=SzJ46YA_RaA) to get a general idea of what computer science is all about. Then, you can explore two different options on the internet:
+    1. For a simpler approach, check out [CS50's Introduction to Computer Science Harvard Course](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+    2. For a deeper dive, here's a more comprehensive list:
+        1. Basic algorithm knowledge
+            1. State machine
+            2. Data structs and related: tree, list, deck, stack, queue, hash function, and hash table. [Great algorithm work visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+            3. [Different sort algorithms](https://www.toptal.com/developers/sorting-algorithms)
+            4. Computational complexity ([good explanation for data structures and sort algorithms](https://www.bigocheatsheet.com/)) and memory consumption of algorithms
+        2. Basic database knowledge
+            1. RDBMS, NoSQL, SQL
+        3. Basic operating system knowledge
+            1. [Process, thread](https://www.youtube.com/watch?v=4rLW7zg21gI)
+        4. Basic network knowledge
+            1. OSI
+            2. TCP/IP (including IP, TCP, and UDP protocols), 
+            3. Socket, HTTP
+            4. [SSL, HTTPS](https://www.youtube.com/watch?v=j9QmMEWmcfo)
+            5. DNS
+            6. [How a browser works](https://www.youtube.com/watch?v=AlkDbnbv7dk)
+        5. Basic API knowledge
+            1.  API
+            2.  SOAP, [REST](https://www.youtube.com/watch?v=-mN3VyJuCjM), [GraphQL](https://www.youtube.com/watch?v=yWzKJPw_VzM)
 2. Object-oriented programming basics - let's see on the internet what it is in common, and…
     1. [4 Principles of Object-Oriented Programming](https://khalilstemmler.com/articles/object-oriented/programming/4-principles/)
     2. Best practices are below
