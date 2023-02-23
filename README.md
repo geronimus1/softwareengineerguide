@@ -1,7 +1,4 @@
-# From Zero to Hero: A Step-by-Step reading list to transform into a Super Professional Software Engineer
-This guide is made for you to change. Please comment and edit this document!
-If you have problems with editing just [write me on Linkedin](https://www.linkedin.com/in/yurigeronimus/)
-
+# Superman's Guide to Transforming from Zero to Hero: A Step-by-Step Reading List for Software Engineers
 ## Introduction
 > My fellow Supermen and Superwomen, I stand before you today to remind you that we are all capable of greatness. We may not have superhuman strength or the ability to fly, but we have something even better - the power of our minds and the strength of our wills. So let's put on our capes, channel our inner superheroes, and take on the world with all the courage and determination of the Man of Steel himself. Up, up, and away!
 
@@ -12,6 +9,9 @@ A friend of mine who currently holds a managerial position expressed interest in
 To assist them, I have compiled a comprehensive list of recommended reading materials for individuals transitioning from a non-engineering background to a career in software engineering.
 
 Furthermore, even if you are already a software engineer, you can still utilize this manual to enhance your skills and progress towards becoming a super software engineer.
+
+This guide is made for you to change. Please comment and edit this document!
+If you have problems with editing just [write me on Linkedin](https://www.linkedin.com/in/yurigeronimus/)
 
 ## Instruction
 >Attention citizens of Metropolis! Just like how Superman goes step-by-step to save the day, you too can become a software engineer by following a step-by-step reading list. And the best part? You can stop at any moment, just like how Superman takes a break to eat a sandwich. 
@@ -83,7 +83,6 @@ You should have a basic understanding of two major sections:
 ## Conversation with a father about the universe:  Overview of Software Design and Architecture
 > When Superman asked his father about the universe, his mind was blown away like a bird in a tornado. His dad explained how the planets, stars, and galaxies were like pieces in a giant puzzle, and Superman's brain was like a sponge that absorbed all the knowledge like a thirsty plant on a rainy day. From that day forward, Superman's passion for space exploration was sky high!
 
-
 Before we dive in, let's take a quick glance at Software Design and Architecture so that you have a general idea of what you'll be learning in the future. Who knows, maybe it'll be enough for you:smiley:, especially last book:
 1. Firstly let’s understand the [difference between Software Design and Architecture](https://medium.com/clean-architecture/difference-between-software-architecture-design-ad09b5ff0a68), just for right mind set when you read these words  
 2. Secondly, let’s learn the <a name="basics-of-sw-design-and-arch">[basics of Software Design and Architecture](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)</a> (20-30 mins)
@@ -111,7 +110,7 @@ Therefore, it is important to have a good understanding of how to write a clear 
 ### Junior high school: Coding starts with coding tests and testing
 > Superman wasn't just a bookworm in junior high/middle school. He was always pushing his limits, whether it was testing out his superhuman strength or seeing how far he could go with his wild imagination. These early years taught him to never back down from a challenge and to always believe in himself, no matter how impossible the task may seem.
 
-In modern software engineering, coding begins with coding tests and testing. So, let's learn about Test-Driven Development (TDD).:
+In modern software engineering, coding begins with coding tests and testing. So, let's learn about Test-Driven Development (TDD):
 1. [TDD getting started](https://tddmanifesto.com/getting-started/)
 2. Also [this](https://khalilstemmler.com/articles/test-driven-development/introduction-to-tdd/), and [this](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) ([in rus](https://habr.com/ru/company/ruvds/blog/450316/))
 
@@ -162,12 +161,13 @@ If you want a more in-depth overview of software design and architecture, you ma
 ## On-the-Job Learning: Let's read when you will start work
 > Well, after completing his formal education, Superman finally joined the workforce and boy was it a rollercoaster ride! From tackling office politics to dealing with cranky clients, Superman learned that the real-world had a lot more surprises in store for him than just fighting off Lex Luthor. But with his superpowers and quick wit, he was able to soar through any challenge that came his way!
 
-As you're now working, it's important to read the best sources to be successful in real life, not just to appear intelligent:
+This list is curated for the time when you start working. It is crucial to read the best sources to achieve success in real-life situations, rather than just to appear knowledgeable:
 1. More about best practices
    1. [Common Coding Conventions](https://github.com/tum-esi/common-coding-conventions) by Associate Professorship of Embedded Systems and Internet of Things at TU Munich
-   2. [This link](#code-completed-short) for short best practices description from the “Code completed” book
-   3. <a name="principles">[Programming principles](http://principles-wiki.net/about:start)</a> (and an additional [good link](https://github.com/webpro/programming-principles))
-   4. Real software engineering - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) by Titus Winters, Tom Manshreck, Hyrum Wright
+   2. [Clean tests](https://tddmanifesto.com/a-clean-test/)
+   3. [This link](#code-completed-short) for short best practices description from the “Code completed” book
+   4. <a name="principles">[Programming principles](http://principles-wiki.net/about:start)</a> (and an additional [good link](https://github.com/webpro/programming-principles))
+   5. Real software engineering - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) by Titus Winters, Tom Manshreck, Hyrum Wright
 2. More about object-oriented design:
    1. [Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445) by Robert Martin
    2. [Object Design: Roles, Responsibilities, and Collaborations](https://www.amazon.com/Object-Design-Roles-Responsibilities-Collaborations/dp/0201379430), Rebecca Wirfs-Brock et al., Addison-Wesley, 2002.
@@ -218,6 +218,7 @@ This is a list of things that I believe are important, but they are not included
     - soft: to succees, you need to use the best software tools available in every area. It's like being a robot competing against humans!
 
 ## Additional sources
+> As Superman himself would attest, even superheroes need to do their research! So, in addition to consulting industry experts and scouring academic journals, we may have also received some tips from our secret superhero source. But shh, that's classified information.
 This section describes the sources of information from which this list was created. But which were not mentioned in it directly.
 
 1. [https://irina-seng.medium.com/top-20-books-a-software-developer-must-read-updated-b24bcc9ee3d](https://irina-seng.medium.com/top-20-books-a-software-developer-must-read-updated-b24bcc9ee3d)
