@@ -154,6 +154,7 @@ In this are we will understand about modern Software design and architecture:
 P.S. While there are many more in-depth aspects of software design and architecture to explore, we believe this list provides a solid foundation before diving into more advanced sources when you begin working. We will cover these advanced topics later in this article.
 
 ### Additional courses: Check everything else about software design and architecture
+If you want a more in-depth overview of software design and architecture, you may find the following resources helpful:
 1. [Overview of Software Design and Architecture](https://roadmap.sh/software-design-architecture)
 2. A classic book about architecture history and design of solid module [Clean Architecture: A Craftsman’s Guide to Software Structure and Design](https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/) by Robert C. Martin ([in rus](https://www.ozon.ru/product/chistaya-arhitektura-iskusstvo-razrabotki-programmnogo-obespecheniya-144499396?sh=P1VIcNdqYQ)) (don’t read carefully at this step, just for an overview)
 
