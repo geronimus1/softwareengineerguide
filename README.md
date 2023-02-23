@@ -146,6 +146,7 @@ P.S. As I have said Engineering is about the whole lifecycle from ideation to de
 In this are we will understand about modern Software design and architecture:
 
 1. <a name="my-modern-sw-arch">[My outlook on modern software structure and architecture styles](https://t.me/it_ace/124)</a> (only in Russian) - different styles of modern architectures, storage and messaging technologies, Service Mesh; microservice application design, domain-driven development; cloud-native, reactive, service mesh; deployment technologies - Kubernetes, Helm; data mesh; hundreds of different architectures of modern applications (for different purposes); CI / CD, DevOps, and SRE
+    * Concept of microservices in a simple way - [video](https://www.youtube.com/watch?v=lTAcCNbJ7KE)
 2. Software design patterns and principles - area “Patterns and design principles” in [this link](https://roadmap.sh/software-architect) 
 3. The modern approach to Software Architecture - [Fundamentals of Software Architecture](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/) by Mark Richards, Neal Ford ([Russian language conspectus](https://apolomodov.medium.com/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-fundamentals-of-software-architecture-1754c0e78d48))
 4. How Software architecture is practiced in reality - [Building Evolutionary Architectures](https://www.amazon.com/_/dp/1492097543?tag=oreilly20-20) by Neal Ford, Rebecca Parsons, Patrick Kua, Pramod Sadalage ([in rus, 1st edition](https://www.labirint.ru/books/667923/))
