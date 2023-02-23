@@ -28,9 +28,9 @@ Ok, If you want only one simples source, so…:
 2. Only one simple overview of Software Design - [link](#basics-of-sw-design-and-arch)
 3. Only one overview of Software architecture - [link](#my-modern-sw-arch) (sorry, only in Russian yet)
 4. Only one book to be a good Software Engineer - [link](#code-completed)
-5. Only programming principles - [link](#principles)
+5. Only one simple source for programming principles - [link](#principles)
 6. Only one good employee - [link](https://www.linkedin.com/in/yurigeronimus/)
-7. Only one step-by-step reading list for the transition to a software engineer - this doc
+7. Only one simple step-by-step reading list for the transition to a software engineer - this doc
 
 ## Educational pathway: Steps to be a software engineer
 > Once upon a time, in a small town called Smallville, Superman was just a regular kid going to school. Well, maybe not so regular with his X-ray vision and super strength coming in handy during science class. After graduating high school, he didn't just fly away to save the world. Instead, he got his Bachelor's and Master's degrees because even a superhero knows the value of education. But let's be honest, those superpowers are what really make him a hero in the job market.
