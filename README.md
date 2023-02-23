@@ -89,9 +89,9 @@ To ensure that you're on the right path for your future, it's important to deter
 ### Elementary school: People and organization communication
 > Back in elementary school, Superman was just like any other kid, learning the ABCs and 123s. But little did he know that these fundamental skills would become his secret weapons against his toughest enemies. Who knew that the power of reading, writing, and math could save the world?
 
-Do understand that software engineering is more about people and organization communication…
+Understand that software engineering involves a great deal of communication and coordination among people and organizations. The source code is an only description of the software. Software is essentially electrical impulses on CPUs in server/client systems, and not merely text code on your computer. 
 
-The source code is the only description of your software! It is true! Software is electrical impulses on CPUs in server/client, not “text code” on your computer. So you need to have got common knowledge about how to write this description looks like a writing book)
+Therefore, it is important to have a good understanding of how to write a clear and descriptive code that resembles a written book:
 1. How to write “words” and “sentences” 
     1. [Clean Code](https://amzn.to/3e2Am9t) by “Uncle” Bob Martin ([in rus](https://www.labirint.ru/books/642466/))
         * More simple with great examples and other information - <a name="common-coding-conventions">[Common Coding Conventions](https://github.com/tum-esi/common-coding-conventions)</a> by Associate Professorship of Embedded Systems and Internet of Things at TU Munich 
