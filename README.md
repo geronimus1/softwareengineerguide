@@ -156,7 +156,9 @@ P.S. As I have said Engineering is about the whole lifecycle from ideation to de
 2. More about object-oriented design:
    1. [Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445) by Robert Martin
    2. [Object Design: Roles, Responsibilities, and Collaborations](https://www.amazon.com/Object-Design-Roles-Responsibilities-Collaborations/dp/0201379430), Rebecca Wirfs-Brock et al., Addison-Wesley, 2002.
-3. More about coding standards, best practices and tips
+3.  How to work with legacy code
+    1. <a name="legacy-code">[Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) by Michael Feathers</a> ([in rus](https://www.labirint.ru/books/231685/))
+4. More about coding standards, best practices and tips
    1. [Common Coding Conventions](#bookmark=id.fcka2jdht9zf) by Associate Professorship of Embedded Systems and Internet of Things at TU Munich
    2. [Coding guides from Google](https://google.github.io/styleguide/)
    3. For C++
@@ -164,12 +166,11 @@ P.S. As I have said Engineering is about the whole lifecycle from ideation to de
       2. [Tips from Google](https://abseil.io/tips/)
       3. [Good rules for secure coding](https://wiki.sei.cmu.edu/confluence/pages/viewpage.action?pageId=88046682)
       4. A good[ style guide from Google](https://google.github.io/styleguide/cppguide.html)
-4.  More about patterns:
+5.  More about patterns:
     1. [Design Patterns](https://amzn.to/35Mu7mH) by Gamma, Helm, Johnson, Vlissides
         * [Simply with the story and beautiful pictures](https://refactoring.guru/ru/design-patterns) ([in rus](https://refactoring.guru/ru/refactoring))
         * [Simplest quick reference for basic design patterns](http://www.mcdonaldland.info/2007/11/28/40/)
     2. [Pattern-oriented Software Architecture](https://amzn.to/3monFIS) by Buschmann et al
-5.  <a name="legacy-code">How to work with legacy code - [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) by Michael Feathers</a> ([in rus](https://www.labirint.ru/books/231685/))
 6.  In addition to all the previous - how you should work for success as a programmer - [The Pragmatic Programmer: your journey to mastery](https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/) by David Thomas, Andrew Hunt ([in rus](https://www.labirint.ru/books/749461/))
 7.  [Another good list of software design and architecture books](https://apolomodov.medium.com/software-design-books-743be52e4c71) (only in Russian)
 
