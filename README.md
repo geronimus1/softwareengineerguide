@@ -147,10 +147,15 @@ P.S. As I have said Engineering is about the whole lifecycle from ideation to de
 
 ### Primary curriculum: Software design and architecture
 
+In this are we will understand about modern Software design and architecture:
+
 1. <a name="my-modern-sw-arch">[My outlook on modern software structure and architecture styles](https://t.me/it_ace/124)</a> (only in Russian) - different styles of modern architectures, storage and messaging technologies, Service Mesh; microservice application design, domain-driven development; cloud-native, reactive, service mesh; deployment technologies - Kubernetes, Helm; data mesh; hundreds of different architectures of modern applications (for different purposes); CI / CD, DevOps, and SRE
 2. Software design patterns and principles - area “Patterns and design principles” in [this link](https://roadmap.sh/software-architect) 
 3. The modern approach to Software Architecture - [Fundamentals of Software Architecture](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/) by Mark Richards, Neal Ford ([Russian language conspectus](https://apolomodov.medium.com/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-fundamentals-of-software-architecture-1754c0e78d48))
-4. Difficult aspects of Software Architecture - [Software Architecture: The Hard Parts](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/) by Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani ([Russian language conspectus](https://apolomodov.medium.com/review-software-architecture-the-hard-parts-part1-f0cc26ca6c16))
+4. How Software architecture is practiced in reality - [Building Evolutionary Architectures](https://www.amazon.com/_/dp/1492097543?tag=oreilly20-20) by Neal Ford, Rebecca Parsons, Patrick Kua, Pramod Sadalage ([in rus, 1st edition](https://www.labirint.ru/books/667923/))
+5. Difficult aspects of Software Architecture - [Software Architecture: The Hard Parts](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/) by Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani ([Russian language conspectus](https://apolomodov.medium.com/review-software-architecture-the-hard-parts-part1-f0cc26ca6c16))
+
+P.S. While there are many more in-depth aspects of software design and architecture to explore, we believe this list provides a solid foundation before diving into more advanced sources when you begin working. We will cover these advanced topics later in this article.
 
 ### Additional courses: Check everything else about software design and architecture
 1. [Overview of Software Design and Architecture](https://roadmap.sh/software-design-architecture)
