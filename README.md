@@ -191,12 +191,12 @@ As you're now working, it's important to read the best sources to be successful 
 ## Master of Science: About the big picture
 > Ah, the illustrious MSc degree, where Superman can further hone his skills and become a real expert in his chosen field. It's like a superhero upgrade - a cape for the brain, if you will! And who knows, with all that advanced knowledge and research abilities, maybe Superman can finally figure out why people insist on wearing their underwear on the outside.
 
-1. Big pictures
-   1. “Horizontal” big picture - about the whole software lifecycle:
-       1. Modern software lifecycle ![Modern software lifecycle](/images/archmap.png)
-       2. Standard [SWEBOK](https://www.computer.org/education/bodies-of-knowledge/software-engineering) ([in rus](https://github.com/ligurio/swebok-2004-in-russian))
-   2. “Vertical” big picture
-       1. [The Architect’s Path](https://architectelevator.com/architecture/architect-bookshelf/)
+Once you achieve success in your work, you can expand your knowledge to understand broader contexts and the bigger picture, which can help you grow in your career:
+1. “Horizontal” big picture - about the whole software lifecycle:
+    1. Modern software lifecycle ![Modern software lifecycle](/images/archmap.png)
+    2. Standard [SWEBOK](https://www.computer.org/education/bodies-of-knowledge/software-engineering) ([in rus](https://github.com/ligurio/swebok-2004-in-russian))
+2. “Vertical” big picture
+    1. [The Architect’s Path](https://architectelevator.com/architecture/architect-bookshelf/)
 
 ## Additional courses: additional topics for learn
 > Perhaps Superman even took a course on "How to Handle Kryptonite in the Workplace" or "Superhero Ethics 101." And let's not forget about "Superhero Fashion Design," because let's be honest, that cape doesn't just design itself!
