@@ -41,11 +41,12 @@ However, it's crucial to note that in today's modern world, these steps often oc
 ## First conversation with a father: Your professional journey
 > When Superman asked his father about his career, his father replied, "Son, you have to find your passion and fly with it!" Superman was confused, but his father continued, "No, literally, fly with it. That's how you became a superhero." And so, Superman explored various fields of interest, including saving the world, and never stopped learning how to become a better hero.
 
-Let's understand your future - what should you learn really. Roadmaps:
- 1. [Roadmaps for different roles and programming languages](https://roadmap.sh/) (except C++ developer)
- 2. Roadmaps for C++ developers:
-     * A good[ roadmap](https://github.com/salmer/CppDeveloperRoadmap) ([in rus](https://github.com/salmer/CppDeveloperRoadmap/blob/main/Russian/README.md))
-     * [Another good roadmap](https://tproger.ru/articles/razrabotka-na-c-s-nulja-v-2022-godu-dorozhnaja-karta/) (only in rus)
+To ensure that you're on the right path for your future, it's important to determine what skills you should learn. Here are some useful roadmaps to guide you:
+
+1. [Roadmaps for different roles and programming languages](https://roadmap.sh/) (excluding C++ developer).
+2. Roadmaps specific to C++ developers:
+    * A comprehensive [roadmap](https://github.com/salmer/CppDeveloperRoadmap) (available in Russian [here](https://github.com/salmer/CppDeveloperRoadmap/blob/main/Russian/README.md)).
+    * Another useful [roadmap](https://tproger.ru/articles/razrabotka-na-c-s-nulja-v-2022-godu-dorozhnaja-karta/) (only available in Russian).
 
 ## Childhood: Computer science and Object-oriented programming basics
 > As a little tyke, even Superman had to learn the basics of walking, talking, and making friends, just like the rest of us mere mortals. But let's be real, his true superpower was his boundless curiosity, which led him to explore the world around him and uncover its hidden secrets (and maybe accidentally break a few things along the way).
