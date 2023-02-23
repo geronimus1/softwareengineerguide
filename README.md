@@ -170,7 +170,7 @@ P.S. As I have said Engineering is about the whole lifecycle from ideation to de
 5.  In addition to all the previous - how you should work for success as a programmer - [The Pragmatic Programmer: your journey to mastery](https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/) by David Thomas, Andrew Hunt ([in rus](https://www.labirint.ru/books/749461/))
 6.  [Another good list of software design and architecture books](https://apolomodov.medium.com/software-design-books-743be52e4c71) (only in Russian)
 
-### Master of Science: About the big picture
+## Master of Science: About the big picture
 > Ah, the illustrious MSc degree, where Superman can further hone his skills and become a real expert in his chosen field. It's like a superhero upgrade - a cape for the brain, if you will! And who knows, with all that advanced knowledge and research abilities, maybe Superman can finally figure out why people insist on wearing their underwear on the outside.
 
 1. Big pictures
@@ -180,7 +180,7 @@ P.S. As I have said Engineering is about the whole lifecycle from ideation to de
    2. “Vertical” big picture
        1. [The Architect’s Path](https://architectelevator.com/architecture/architect-bookshelf/)
 
-### Additional courses: additional topics for learn
+## Additional courses: additional topics for learn
 > Perhaps Superman even took a course on "How to Handle Kryptonite in the Workplace" or "Superhero Ethics 101." And let's not forget about "Superhero Fashion Design," because let's be honest, that cape doesn't just design itself!
 1. Programming:
     1. Good logs
