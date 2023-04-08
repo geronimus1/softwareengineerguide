@@ -24,13 +24,13 @@ Please note that I have excluded management practices from this article since my
 > If you want only one simple source for Superman...  You could always try calling the Daily Planet and asking for Clark Kent. Just make sure you don't mention anything about Superman, or you might blow his cover!
 
 Alright, if you're looking for just one simple source, then here they are:
-1. Only one simple best practice for programmers - [link](#common-coding-conventions)
-2. Only one simple overview of Software Design - [link](#basics-of-sw-design-and-arch)
-3. Only one overview of Software architecture - [link](#my-modern-sw-arch) (sorry, only in Russian yet)
-4. Only one book to be a good Software Engineer - [link](#code-completed)
-5. Only one simple source for programming principles - [link](#principles)
-6. Only one book about working with legacy code - [link](#legacy-code)
-7. Only one good employee - [link](https://www.linkedin.com/in/yurigeronimus/)
+1. [Only one simple best practice for programmers](#common-coding-conventions)
+2. [Only one simple overview of Software Design](#basics-of-sw-design-and-arch)
+3. [Only one overview of Software architecture](#my-modern-sw-arch) (sorry, only in Russian yet)
+4. [Only one book to be a good Software Engineer](#code-completed)
+5. [Only one simple source for programming principles](#principles)
+6. [Only one book about working with legacy code](#legacy-code)
+7. [Only one good employee](https://www.linkedin.com/in/yurigeronimus/)
 8. Only one simple step-by-step reading list for the transition to a software engineer - this doc
 
 ## Educational pathway: Steps to be a software engineer
@@ -47,14 +47,14 @@ To ensure that you're on the right path for your future, it's important to deter
 
 1. [Roadmaps for different roles and programming languages](https://roadmap.sh/) (excluding C++ developer).
 2. Roadmaps specific to C++ developers:
-    * A comprehensive [roadmap](https://github.com/salmer/CppDeveloperRoadmap) (available in Russian [here](https://github.com/salmer/CppDeveloperRoadmap/blob/main/Russian/README.md)).
-    * Another useful [roadmap](https://tproger.ru/articles/razrabotka-na-c-s-nulja-v-2022-godu-dorozhnaja-karta/) (only available in Russian).
+    * A comprehensive [roadmap](https://github.com/salmer/CppDeveloperRoadmap) ([in rus](https://github.com/salmer/CppDeveloperRoadmap/blob/main/Russian/README.md)).
+    * Another useful [roadmap](https://tproger.ru/articles/razrabotka-na-c-s-nulja-v-2022-godu-dorozhnaja-karta/) (only in Russian).
 
 ## Childhood: Computer science and Object-oriented programming basics
 > As a little tyke, even Superman had to learn the basics of walking, talking, and making friends, just like the rest of us mere mortals. But let's be real, his true superpower was his boundless curiosity, which led him to explore the world around him and uncover its hidden secrets (and maybe accidentally break a few things along the way).
 
 You should have a basic understanding of two major sections:
-1. Computer science basics - here are a few options to understand the first major section. Since I learned this area a long time ago in university, I'm not familiar with the latest books. So, let's start with this [video](https://www.youtube.com/watch?v=SzJ46YA_RaA) to get a general idea of what computer science is all about. Then, you can explore two different options on the internet:
+1. Computer science basics - here are a few options to understand the first major section. Since I learned this area a long time ago in university, I'm not familiar with the latest books. So, let's start with [this video](https://www.youtube.com/watch?v=SzJ46YA_RaA) to get a general idea of what computer science is all about. Then, you can explore two different options on the internet:
     1. For a simpler approach, check out [CS50's Introduction to Computer Science Harvard Course](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
     2. For a deeper dive, here's a more comprehensive list:
         1. Basic algorithm knowledge
@@ -89,7 +89,7 @@ You should have a basic understanding of two major sections:
 Before we dive in, let's take a quick glance at Software Design and Architecture so that you have a general idea of what you'll be learning in the future. Who knows, maybe it'll be enough for you:smiley:, especially last book:
 1. Firstly let’s understand the [difference between Software Design and Architecture](https://medium.com/clean-architecture/difference-between-software-architecture-design-ad09b5ff0a68), just for right mind set when you read these words  
 2. Secondly, let’s learn the <a name="basics-of-sw-design-and-arch">[basics of Software Design and Architecture](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)</a> (20-30 mins)
-3. Excellent deep overview of software design and construction - <a name="code-completed">[Code Complete: A Practical Handbook of Software Construction](https://www.oreilly.com/library/view/code-complete-2nd/0735619670/) 2nd Edition</a> by Steve McConnell (in [rus](https://www.labirint.ru/books/272529/))
+3. Excellent deep overview of software design and construction - <a name="code-completed">[Code Complete: A Practical Handbook of Software Construction](https://www.oreilly.com/library/view/code-complete-2nd/0735619670/) 2nd Edition</a> by Steve McConnell ([in rus](https://www.labirint.ru/books/272529/))
     1. <a name="code-completed-short">Fast track of this book - only Chapter 35 “Themes in Software Craftsmanship”</a>. Note: it is not a full abstract of this book.
 
 ## School
@@ -115,7 +115,7 @@ Therefore, it is important to have a good understanding of how to write a clear 
 
 In modern engineering, all the last stages are trying to move forward. In software engineering, it has now become the standard that coding begins with coding tests and testing. So, let's learn about Test-Driven Development (TDD):
 1. [TDD getting started](https://tddmanifesto.com/getting-started/)
-2. Also [this](https://khalilstemmler.com/articles/test-driven-development/introduction-to-tdd/), and [this](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) ([in rus](https://habr.com/ru/company/ruvds/blog/450316/))
+2. Also [Introduction in TDD](https://khalilstemmler.com/articles/test-driven-development/introduction-to-tdd/), and [How TDD changed life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) ([in rus](https://habr.com/ru/company/ruvds/blog/450316/))
 
 P.S. Do remember
 > Legacy code is simply code without tests. 
@@ -147,10 +147,10 @@ P.S. As I have said Engineering is about the whole lifecycle from ideation to de
 In this are we will understand about modern Software design and architecture:
 
 1. <a name="my-modern-sw-arch">[My outlook on modern software structure and architecture styles](https://t.me/it_ace/124)</a> (only in Russian) - different styles of modern architectures, storage and messaging technologies, Service Mesh; microservice application design, domain-driven development; cloud-native, reactive, service mesh; deployment technologies - Kubernetes, Helm; data mesh; hundreds of different architectures of modern applications (for different purposes); CI / CD, DevOps, and SRE
-    * [Short video](https://www.youtube.com/watch?v=lTAcCNbJ7KE) about Concept of microservices in a simple way
-2. Software design patterns and principles - area “Patterns and design principles” in [this link](https://roadmap.sh/software-architect) 
+    * [Concept of microservices in a simple way](https://www.youtube.com/watch?v=lTAcCNbJ7KE)
+2. Software design patterns and principles - area “Patterns and design principles” in [Software Architect rodmap](https://roadmap.sh/software-architect) 
 3. The modern approach to Software Architecture - [Fundamentals of Software Architecture](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/) by Mark Richards, Neal Ford ([Russian language conspectus](https://apolomodov.medium.com/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-fundamentals-of-software-architecture-1754c0e78d48))
-4. How Software architecture is practiced in reality - [Building Evolutionary Architectures](https://www.amazon.com/_/dp/1492097543?tag=oreilly20-20) by Neal Ford, Rebecca Parsons, Patrick Kua, Pramod Sadalage ([in rus, 1st edition](https://www.labirint.ru/books/667923/))
+4. How Software architecture is practiced in reality - [Building Evolutionary Architectures](https://www.amazon.com/_/dp/1492097543?tag=oreilly20-20) by Neal Ford, Rebecca Parsons, Patrick Kua, Pramod Sadalage ([1st edition in rus](https://www.labirint.ru/books/667923/))
 5. Difficult aspects of Software Architecture - [Software Architecture: The Hard Parts](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/) by Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani ([Russian language conspectus](https://apolomodov.medium.com/review-software-architecture-the-hard-parts-part1-f0cc26ca6c16))
 
 P.S. While there are many more in-depth aspects of software design and architecture to explore, we believe this list provides a solid foundation before diving into more advanced sources when you begin working. We will cover these advanced topics later in this article.
@@ -158,7 +158,7 @@ P.S. While there are many more in-depth aspects of software design and architect
 ### Additional courses: Check everything else about software design and architecture
 If you want a more in-depth overview of software design and architecture, you may find the following resources helpful:
 1. [Overview of Software Design and Architecture](https://roadmap.sh/software-design-architecture)
-2. A classic book about architecture history and design of solid module [Clean Architecture: A Craftsman’s Guide to Software Structure and Design](https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/) by Robert C. Martin ([in rus](https://www.ozon.ru/product/chistaya-arhitektura-iskusstvo-razrabotki-programmnogo-obespecheniya-144499396?sh=P1VIcNdqYQ)) (don’t read carefully at this step, just for an overview)
+2. A classic book about architecture history and design of solid module [Clean Architecture: A Craftsman’s Guide to Software Structure and Design](https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/) by Robert C. Martin ([in rus](https://www.ozon.ru/product/chistaya-arhitektura-iskusstvo-razrabotki-programmnogo-obespecheniya-144499396?sh=P1VIcNdqYQ))
 
 ## On-the-Job Learning: Let's read when you will start work
 > Well, after completing his formal education, Superman finally joined the workforce and boy was it a rollercoaster ride! From tackling office politics to dealing with cranky clients, Superman learned that the real-world had a lot more surprises in store for him than just fighting off Lex Luthor. But with his superpowers and quick wit, he was able to soar through any challenge that came his way!
@@ -167,8 +167,8 @@ This list is curated for the time when you start working. It is crucial to read 
 1. More about best practices
    1. [Common Coding Conventions](https://github.com/tum-esi/common-coding-conventions) by Associate Professorship of Embedded Systems and Internet of Things at TU Munich
    2. [Clean tests](https://tddmanifesto.com/a-clean-test/)
-   3. [This link](#code-completed-short) for short best practices description from the “Code completed” book
-   4. <a name="principles">[Programming principles](http://principles-wiki.net/about:start)</a> (and an additional [good link](https://github.com/webpro/programming-principles))
+   3. [Short best practices description from the “Code completed” book](#code-completed-short)
+   4. <a name="principles">[Programming principles](http://principles-wiki.net/about:start)</a> (and an additional [good list of principles](https://github.com/webpro/programming-principles))
    5. Real software engineering - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) by Titus Winters, Tom Manshreck, Hyrum Wright
 2. More about object-oriented design:
    1. [Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445) by Robert Martin
@@ -182,14 +182,14 @@ This list is curated for the time when you start working. It is crucial to read 
         1. [C++ core guidelines from C++ language author and other ](https://github.com/isocpp/CppCoreGuidelines)
         2. [Tips from Google](https://abseil.io/tips/)
         3. [Good rules for secure coding](https://wiki.sei.cmu.edu/confluence/pages/viewpage.action?pageId=88046682)
-4. A good[ style guide from Google](https://google.github.io/styleguide/cppguide.html)
-5.  More about patterns:
+5. A good[ style guide from Google](https://google.github.io/styleguide/cppguide.html)
+6.  More about patterns:
     1. [Design Patterns](https://amzn.to/35Mu7mH) by Gamma, Helm, Johnson, Vlissides
-        * [Simply with the story and beautiful pictures](https://refactoring.guru/ru/design-patterns) ([in rus](https://refactoring.guru/ru/refactoring))
+        * [Simply with the story and beautiful pictures](https://refactoring.guru/design-patterns) ([in rus](https://refactoring.guru/ru/design-patterns))
         * [Simplest quick reference for basic design patterns](http://www.mcdonaldland.info/2007/11/28/40/)
     2. [Pattern-oriented Software Architecture](https://amzn.to/3monFIS) by Buschmann et al
-6.  In addition to all the previous - how you should work for success as a programmer - [The Pragmatic Programmer: your journey to mastery](https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/) by David Thomas, Andrew Hunt ([in rus](https://www.labirint.ru/books/749461/))
-7.  [Another good list of software design and architecture books](https://apolomodov.medium.com/software-design-books-743be52e4c71) (only in Russian)
+7.  In addition to all the previous - how you should work for success as a programmer - [The Pragmatic Programmer: your journey to mastery](https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/) by David Thomas, Andrew Hunt ([in rus](https://www.labirint.ru/books/749461/))
+8.  [Another good list of software design and architecture books](https://apolomodov.medium.com/software-design-books-743be52e4c71) (only in Russian)
 
 ## Master of Science: About the big picture
 > Ah, the illustrious MSc degree, where Superman can further hone his skills and become a real expert in his chosen field. It's like a superhero upgrade - a cape for the brain, if you will! And who knows, with all that advanced knowledge and research abilities, maybe Superman can finally figure out why people insist on wearing their underwear on the outside.
@@ -211,9 +211,9 @@ This is a list of things that I believe are important, but they are not included
 2. Social activities
     1. Software design document
     2. [Architecture decision records](https://github.com/joelparkerhenderson/architecture-decision-record)
-3. CI/CD - [link](https://www.youtube.com/watch?v=42UP1fxi2SY)
-4. [https://www.shecancode.io/blog/my-software-engineer-roadmap-by-joana-carneiro](https://www.shecancode.io/blog/my-software-engineer-roadmap-by-joana-carneiro) 
-5. DDD - [link](https://khalilstemmler.com/articles/domain-driven-design-intro/)
+3. [CI/CD](https://www.youtube.com/watch?v=42UP1fxi2SY)
+4. [One more software engineer roadmap](https://www.shecancode.io/blog/my-software-engineer-roadmap-by-joana-carneiro) 
+5. [DDD](https://khalilstemmler.com/articles/domain-driven-design-intro/)
 6. BDD
 7. How to organize your working place:
     - hard: chairs, table, 3+ monitors, vertical mouse etc
@@ -227,7 +227,3 @@ This section describes the sources of information from which this list was creat
 2. [https://youtu.be/rdToUPeO93s?t=1258](https://youtu.be/rdToUPeO93s?t=1258) (only in Russian)
 3. [https://roadmap.sh/backend](https://roadmap.sh/backend) 
 4. [https://roadmap.sh/software-architect](https://roadmap.sh/software-architect) 
-
-## Authors
-1. Yuri Geronimus, [https://www.linkedin.com/in/yurigeronimus/](https://www.linkedin.com/in/yurigeronimus/) (author of the initial version)
-2. Let’s put your name and contacts)
