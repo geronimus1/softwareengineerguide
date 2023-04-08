@@ -11,7 +11,7 @@ To assist them, I have compiled a comprehensive list of recommended reading mate
 Furthermore, even if you are already a software engineer, you can still utilize this manual to enhance your skills and progress towards becoming a super software engineer.
 
 This guide is made for you to change. Please comment and edit this document!
-If you have problems with editing just [write me on Linkedin](https://www.linkedin.com/in/yurigeronimus/)
+If you have problems with editing just [write me on Linkedin](https://www.linkedin.com/in/yurigeronimus/).
 
 ## Instruction
 >Attention citizens of Metropolis! Just like how Superman goes step-by-step to save the day, you too can become a software engineer by following a step-by-step reading list. And the best part? You can stop at any moment, just like how Superman takes a break to eat a sandwich. 
@@ -24,12 +24,12 @@ Please note that I have excluded management practices from this article since my
 > If you want only one simple source for Superman...  You could always try calling the Daily Planet and asking for Clark Kent. Just make sure you don't mention anything about Superman, or you might blow his cover!
 
 Alright, if you're looking for just one simple source, then here they are:
-1. [Only one simple best practice for programmers](#common-coding-conventions)
-2. [Only one simple overview of Software Design](#basics-of-sw-design-and-arch)
-3. [Only one overview of Software architecture](#my-modern-sw-arch) (sorry, only in Russian yet)
-4. [Only one book to be a good Software Engineer](#code-completed)
-5. [Only one simple source for programming principles](#principles)
-6. [Only one book about working with legacy code](#legacy-code)
+1. [Only one simple best practice for software developers](https://github.com/tum-esi/common-coding-conventions)
+2. [Only one simple overview of Software Design](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)
+3. [Only one overview of Software architecture](https://t.me/it_ace/124) (sorry, only in Russian yet)
+4. [Only one book to be a good Software Engineer](https://www.oreilly.com/library/view/code-complete-2nd/0735619670/)
+5. [Only one simple source for programming principles](http://principles-wiki.net/about:start)
+6. [Only one book about working with legacy code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
 7. [Only one good employee](https://www.linkedin.com/in/yurigeronimus/)
 8. Only one simple step-by-step reading list for the transition to a software engineer - this doc
 
@@ -46,7 +46,7 @@ However, it's crucial to note that in today's modern world, these steps often oc
 To ensure that you're on the right path for your future, it's important to determine what skills you should learn. Here are some useful roadmaps to guide you:
 
 1. [Roadmaps for different roles and programming languages](https://roadmap.sh/) (excluding C++ developer).
-2. Roadmaps specific to C++ developers:
+2. Roadmaps for C++ developers:
     * A comprehensive [roadmap](https://github.com/salmer/CppDeveloperRoadmap) ([in rus](https://github.com/salmer/CppDeveloperRoadmap/blob/main/Russian/README.md)).
     * Another useful [roadmap](https://tproger.ru/articles/razrabotka-na-c-s-nulja-v-2022-godu-dorozhnaja-karta/) (only in Russian).
 
@@ -88,9 +88,9 @@ You should have a basic understanding of two major sections:
 
 Before we dive in, let's take a quick glance at Software Design and Architecture so that you have a general idea of what you'll be learning in the future. Who knows, maybe it'll be enough for you:smiley:, especially last book:
 1. Firstly let’s understand the [difference between Software Design and Architecture](https://medium.com/clean-architecture/difference-between-software-architecture-design-ad09b5ff0a68), just for right mind set when you read these words  
-2. Secondly, let’s learn the <a name="basics-of-sw-design-and-arch">[basics of Software Design and Architecture](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)</a> (20-30 mins)
-3. Excellent deep overview of software design and construction - <a name="code-completed">[Code Complete: A Practical Handbook of Software Construction](https://www.oreilly.com/library/view/code-complete-2nd/0735619670/) 2nd Edition</a> by Steve McConnell ([in rus](https://www.labirint.ru/books/272529/))
-    1. <a name="code-completed-short">Fast track of this book - only Chapter 35 “Themes in Software Craftsmanship”</a>. Note: it is not a full abstract of this book.
+2. Secondly, let’s learn the [basics of Software Design and Architecture](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/) (20-30 mins)
+3. Excellent deep overview of software design and construction - [Code Complete: A Practical Handbook of Software Construction](https://www.oreilly.com/library/view/code-complete-2nd/0735619670/) 2nd Edition by Steve McConnell ([in rus](https://www.labirint.ru/books/272529/))
+    * <a name="code-completed-short">Fast track of this book - only Chapter 35 “Themes in Software Craftsmanship”</a>. Note: it is not a full abstract of this book.
 
 ## School
 ### Elementary school: People and organization communication
@@ -101,14 +101,13 @@ Understand that software engineering involves a great deal of communication and 
 Therefore, it is important to have a good understanding of how to write a clear and descriptive code that resembles a written book:
 1. How to write “words” and “sentences” 
     1. [Clean Code](https://amzn.to/3e2Am9t) by “Uncle” Bob Martin ([in rus](https://www.labirint.ru/books/642466/))
-        * More simple with great examples and other information - <a name="common-coding-conventions">[Common Coding Conventions](https://github.com/tum-esi/common-coding-conventions)</a> by Associate Professorship of Embedded Systems and Internet of Things at TU Munich 
-    2. Rewriting (Refactoring) is very important
-        1. [Refactoring](https://amzn.to/2G1LIOy) by Martin Fowler ([in rus](https://www.labirint.ru/books/601754/))
-            * [More simply with cool pictures](https://refactoring.guru/refactoring) ([in rus](https://refactoring.guru/ru/refactoring))
+        * More simple with great examples and other information - [Common Coding Conventions](https://github.com/tum-esi/common-coding-conventions) by Associate Professorship of Embedded Systems and Internet of Things at TU Munich 
+    2. Rewriting (Refactoring) is very important - [Refactoring](https://amzn.to/2G1LIOy) by Martin Fowler ([in rus](https://www.labirint.ru/books/601754/))
+         * [More simply with cool pictures](https://refactoring.guru/refactoring) ([in rus](https://refactoring.guru/ru/refactoring))
 2. The storytelling of your software through version control (I recommend git)
     1. [Write Better Commits, Build Better Projects](https://github.blog/2022-06-30-write-better-commits-build-better-projects/)
     2. [The naming of your commits](https://dev.to/i5han3/git-commit-message-convention-that-you-can-follow-1709)
-3. Do know that [your code can sign contracts](https://en.wikipedia.org/wiki/Design_by_contract) in modern coding like you and it is good
+3. Do know that [your code can sign contracts](https://en.wikipedia.org/wiki/Design_by_contract) in modern coding like you, and it is good
 
 ### Junior high school: Coding starts with coding tests and testing
 > Superman wasn't just a bookworm in junior high/middle school. He was always pushing his limits, whether it was testing out his superhuman strength or seeing how far he could go with his wild imagination. These early years taught him to never back down from a challenge and to always believe in himself, no matter how impossible the task may seem.
@@ -146,7 +145,7 @@ P.S. As I have said Engineering is about the whole lifecycle from ideation to de
 
 In this are we will understand about modern Software design and architecture:
 
-1. <a name="my-modern-sw-arch">[My outlook on modern software structure and architecture styles](https://t.me/it_ace/124)</a> (only in Russian) - different styles of modern architectures, storage and messaging technologies, Service Mesh; microservice application design, domain-driven development; cloud-native, reactive, service mesh; deployment technologies - Kubernetes, Helm; data mesh; hundreds of different architectures of modern applications (for different purposes); CI / CD, DevOps, and SRE
+1. [My outlook on modern software structure and architecture styles](https://t.me/it_ace/124) (only in Russian) - different styles of modern architectures, storage and messaging technologies, Service Mesh; microservice application design, domain-driven development; cloud-native, reactive, service mesh; deployment technologies - Kubernetes, Helm; data mesh; hundreds of different architectures of modern applications (for different purposes); CI / CD, DevOps, and SRE
     * [Concept of microservices in a simple way](https://www.youtube.com/watch?v=lTAcCNbJ7KE)
 2. Software design patterns and principles - area “Patterns and design principles” in [Software Architect rodmap](https://roadmap.sh/software-architect) 
 3. The modern approach to Software Architecture - [Fundamentals of Software Architecture](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/) by Mark Richards, Neal Ford ([Russian language conspectus](https://apolomodov.medium.com/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-fundamentals-of-software-architecture-1754c0e78d48))
@@ -221,6 +220,7 @@ This is a list of things that I believe are important, but they are not included
 
 ## Additional sources
 > As Superman himself would attest, even superheroes need to do their research! So, in addition to consulting industry experts and scouring academic journals, we may have also received some tips from our secret superhero source. But shh, that's classified information.
+
 This section describes the sources of information from which this list was created. But which were not mentioned in it directly.
 
 1. [https://irina-seng.medium.com/top-20-books-a-software-developer-must-read-updated-b24bcc9ee3d](https://irina-seng.medium.com/top-20-books-a-software-developer-must-read-updated-b24bcc9ee3d)
